@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RA_redux_filter/static/css/main.bd6f39b3.chunk.css",
+    "main.js": "/RA_redux_filter/static/js/main.82a18e9f.chunk.js",
+    "main.js.map": "/RA_redux_filter/static/js/main.82a18e9f.chunk.js.map",
+    "runtime-main.js": "/RA_redux_filter/static/js/runtime-main.80c01d1b.js",
+    "runtime-main.js.map": "/RA_redux_filter/static/js/runtime-main.80c01d1b.js.map",
+    "static/js/2.540ab728.chunk.js": "/RA_redux_filter/static/js/2.540ab728.chunk.js",
+    "static/js/2.540ab728.chunk.js.map": "/RA_redux_filter/static/js/2.540ab728.chunk.js.map",
+    "index.html": "/RA_redux_filter/index.html",
+    "precache-manifest.bf4f32c32da66fa7a91941e15b9bb91a.js": "/RA_redux_filter/precache-manifest.bf4f32c32da66fa7a91941e15b9bb91a.js",
+    "service-worker.js": "/RA_redux_filter/service-worker.js",
+    "static/css/main.bd6f39b3.chunk.css.map": "/RA_redux_filter/static/css/main.bd6f39b3.chunk.css.map",
+    "static/js/2.540ab728.chunk.js.LICENSE.txt": "/RA_redux_filter/static/js/2.540ab728.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c01d1b.js",
+    "static/js/2.540ab728.chunk.js",
+    "static/css/main.bd6f39b3.chunk.css",
+    "static/js/main.82a18e9f.chunk.js"
+  ]
+}
