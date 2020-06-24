@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/f7xrkeind6d5rha4?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-redux-filter)
 
 https://kategaw.github.io/RA_redux_filter/
 
